@@ -1,7 +1,11 @@
 # SaaS Support & Troubleshooting Lab
 
 ## Overview
-This project demonstrates hands-on troubleshooting of real-world SaaS-style support incidents in a controlled lab environment.
+
+This project simulates real-world SaaS support incidents in a controlled lab environment.  
+Each scenario follows a structured troubleshooting approach including investigation, root cause analysis, and resolution.
+
+Designed to reflect the day-to-day work of a Technical Support Engineer or Service Desk Analyst.
 
 Each scenario is structured as a support case, focusing on:
 - Identifying user-reported issues
