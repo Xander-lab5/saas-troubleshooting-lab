@@ -30,6 +30,8 @@ The goal is to simulate the day-to-day work of a Technical Support Engineer or S
 3. [Workstation Performance Degradation (Resource Utilization)](scenarios/03-performance-degradation.md)  
    Identifying and resolving system performance issues caused by resource-heavy processes.
 
+4. [Authentication troubleshooting scenario (time sync issue)](scenarios/04-time-sync-auth.md)  
+   Troubleshooting access denial to folder due to time synchronization issue
 ---
 
 ## Environment
