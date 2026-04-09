@@ -62,3 +62,5 @@ Kerberos authentication failed due to excessive time drift between the client sy
 
 ### Access Restored
 ![Access Restored](../screenshots/auth/access-restored.png)
+
+This issue required deeper investigation as standard causes such as incorrect credentials and permissions were ruled out.
