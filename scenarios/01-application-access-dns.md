@@ -6,7 +6,7 @@
 
 ## Environment
 - Windows Server 2019 (Domain Controller + DNS)
-- Windows 11 Client
+- Windows 11 Client 
 - Active Directory Domain
 
 ---

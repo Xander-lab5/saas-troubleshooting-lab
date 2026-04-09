@@ -21,7 +21,7 @@ The user reported that their workstation was extremely slow, with delayed respon
 ---
 
 ## Initial Symptoms
-- Slow login and delayed desktop load
+- Slow login and delayed desktop load 
 - Applications taking longer than normal to open
 - System lag when switching between tasks
 - High CPU usage observed
