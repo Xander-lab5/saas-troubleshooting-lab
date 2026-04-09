@@ -23,7 +23,7 @@ User reported inability to access internal shared resource despite previously wo
 - Tested network connectivity and DNS resolution
 - Attempted access to shared folder via \\DC01\Finance
 - Observed authentication failure despite valid permissions
-- Checked client system time and identified mismatch with domain controller
+- Checked client system time and identified mismatch with domain controller 
 
 ---
 

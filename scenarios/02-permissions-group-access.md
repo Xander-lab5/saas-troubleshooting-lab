@@ -63,7 +63,7 @@ The user reported receiving an "Access Denied" error when attempting to open a s
 - Share permissions allowed access to the correct group
 - NTFS permissions were more restrictive
 - Affected user was not part of the required security group
-- This resulted in effective access being denied 
+- This resulted in effective access being denied
 
 ---
 
