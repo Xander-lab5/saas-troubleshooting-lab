@@ -7,11 +7,12 @@ Each scenario follows a structured troubleshooting approach including investigat
 
 Designed to reflect the day-to-day work of a Technical Support Engineer or Service Desk Analyst.
 
-## Key Outcomes
+## Outcomes
 
 - Diagnosed and resolved DNS-related application access failures
 - Investigated and corrected Active Directory permission issues
 - Identified and remediated workstation performance bottlenecks
+- Resolved authentication failures caused by Kerberos time synchronization issues
 - Applied structured troubleshooting methodology aligned with real-world support environments
 
 The goal is to simulate the day-to-day work of a Technical Support Engineer or Service Desk Analyst.
